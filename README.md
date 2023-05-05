@@ -1,3 +1,4 @@
+```
 import SwitchText from "./SwitchText";
 import React, { useState, useEffect } from "react";
 import * as hi from "react-icons/hi";
@@ -180,3 +181,5 @@ function SwitchContainer({
 }
 
 export default SwitchContainer;
+
+```
